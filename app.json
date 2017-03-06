@@ -1,7 +1,7 @@
 
 {
   "name": "Test  App",
-  "description": "Example of Nexmo app",
+  "description": "Testing the Nexmo Buildpack",
   "repository": "https://github.com/nexmo-community/click2call",
   "logo": "https://avatars0.githubusercontent.com/u/551057?v=3&s=200",
   "env": {
@@ -10,7 +10,7 @@
       "value": "yes"
     },
     "NAME": {
-      "description": "The Heroku app name, enter it exactly the same as you have above",
+      "description": "The Heroku app name, enter it exactly the same as you have above"
     },
     "API_KEY": {
       "description": "Your Nexmo API Key",
